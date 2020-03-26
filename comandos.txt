@@ -1,4 +1,4 @@
-* Framework do node
+* Estrutura de aplicativo da Web para o Node.j
 
 	npm install express
 
