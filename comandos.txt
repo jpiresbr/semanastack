@@ -1,0 +1,43 @@
+* Framework do node
+
+	npm install express
+
+
+* Nodemon para não ficar restartando o node
+
+	npm install nodemon -D
+
+
+* npm install cors
+
+
+* Rodar projeto
+	npm start
+
+
+* Criar projeto base
+	npx create-react-app nome_do_projeto
+
+
+* Ver as dependências do projeto
+
+	npm fund
+
+
+* Biblioteca para banco de dados
+
+	npm install knex 
+
+	npm install sqlite3	
+	
+	npx knex init
+
+
+* Criar migrate para banco de dados
+
+	npx knex migrate:make create_ongs
+
+
+* Executar migrates: 
+
+	npx knex migrate:latest
