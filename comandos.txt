@@ -8,9 +8,6 @@
 	npm install nodemon -D
 
 
-* npm install cors
-
-
 * Rodar projeto
 	npm start
 
@@ -41,3 +38,19 @@
 * Executar migrates: 
 
 	npx knex migrate:latest
+
+* Icones
+
+	npm install react-icon
+
+* Rotas 
+
+	npm install react-router-dom
+
+* Cliente HTTP
+
+	npm install axios
+
+
+* npm install cors
+
