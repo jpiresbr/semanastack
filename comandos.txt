@@ -2,7 +2,6 @@
 
 	npm install express
 
-
 * Nodemon para não ficar restartando o node
 
 	npm install nodemon -D
