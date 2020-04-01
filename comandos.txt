@@ -52,5 +52,40 @@
 	npm install axios
 
 
-* npm install cors
+* Segurança
+	npm install cors
 
+
+* Expo 
+	npm intall explo-cli
+
+	> para instalar um novo projeto: expo init mobile
+
+	> para o emulador: yarn star
+	
+
+* Instalar o https://reactnavigation.org/
+
+	npm install @react-navigation/native
+
+	expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+
+* Para stacks
+
+	npm install @react-navigation/stack 
+
+
+* Ajustar elementos da tela
+
+	expo install expo-constants
+
+
+* Envio de e-mail
+
+	expo install expo-mail-composer
+
+
+* Para fomatar em R$ no mobile
+	
+	npm install intl

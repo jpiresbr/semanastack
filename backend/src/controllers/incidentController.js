@@ -12,7 +12,7 @@ module.exports = {
             .join('ongs', 'ongs.id', '=', 'incidents.ong_id')
             .limit(4)
             .offset((page-1)*4)
-            .select(["incidents.*", 'ongs.email', 'ongs.nome', 'ongs.whatsapp']);
+            .select(["incidents.*", 'ongs.email', 'ongs.nome', 'ongs.whatsapp', 'ongs.cidade', 'ongs.uf']);
         return response.json(incidents);
     },
 
