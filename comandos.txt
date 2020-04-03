@@ -88,3 +88,19 @@
 * Para fomatar em R$ no mobile
 	
 	npm install intl
+
+
+* Para validações de dados e rotas express com o Joi
+
+	npm install celebrate
+
+
+* Para testes automatizados Jest
+
+	npm install jest -D
+
+	npx jest --init
+
+	npm intall cross-env
+	
+	npm install supertest -D
